@@ -1,1 +1,1 @@
-# My-Projects
+# Cotton Disease Prediction
